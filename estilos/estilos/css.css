@@ -1,0 +1,52 @@
+h1 {
+    color: darkblue;
+    font-size: 2.5vw;
+    background-image: url("../paper.gif");
+    border-style: solid;
+    border-color: chocolate;
+    border-width: 7px;
+    border-radius: 15px;
+    margin: 100px 200px;
+    padding: 50px 25px;
+}
+
+p{
+    font-size: 3vh;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 300px;
+
+    padding: 25px 50px;
+}
+
+p.borde-uno{
+    background-image: url("../textura\ 2.avif");
+    border: 5px solid red;
+}
+
+p.borde-dos{
+    border: 5px dashed green;
+}
+
+img.reducir-mitad{
+    width: 50%;
+}
+
+div{
+    background-image: url("../textura\ 2.avif");
+    margin: 100px 200px;
+    padding: 75px 120px;
+    border: 6px solid rgb(139, 9, 9);
+    border-radius: 10px;
+    line-height: 1.2;
+}
+
+span {
+    background-image: url("../textura\ 2.avif");
+    margin: 100px 100px;
+    padding: 75px 120px;
+    border: 6px solid rgb(206, 144, 1);
+    border-radius: 10px;
+    line-height: 1,2;
+}
